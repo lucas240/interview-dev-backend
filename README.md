@@ -14,9 +14,10 @@ Runs the server on the port provided.
 
 **Before launching the server** you should first create a `.env` file with following variables: 
 
- `PORT= <br/>
-DB_HOST= <br/>
-DB_USER= <br/>
-DB_PW= <br/>
+```
+PORT=   
+DB_HOST=  
+DB_USER=   
+DB_PW=  
 DB_DATABASE=
-`.
+```
