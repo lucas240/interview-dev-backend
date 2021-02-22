@@ -11,3 +11,12 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the server on the port provided.
+
+**Before launching the server** you should first create a `.env` file with following variables: 
+
+`PORT=
+DB_HOST=
+DB_USER=
+DB_PW=
+DB_DATABASE=
+`.
